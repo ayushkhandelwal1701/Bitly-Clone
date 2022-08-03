@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d56e4c89-49b9-4f33-a43d-eb90c9519938" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BloodBankSystem-Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 PROJECT INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/01 PROJECT INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/migrations/0002_bloodrequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/migrations/0003_auto_20210213_1053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/migrations/0004_bloodrequest_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloodbankmanagement/01 PROJECT INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloodbankmanagement/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloodbankmanagement/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloodbankmanagement/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloodbankmanagement/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloodbankmanagement/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/01 PROJECT INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/migrations/0002_auto_20210213_1602.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donor/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/01 PROJECT INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/homepage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/homepage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/WIN_20200510_14_20_49_Pro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/WIN_20200510_14_20_49_Pro_15W0o3e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/WIN_20200510_14_20_54_Pro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/christen-freeimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/fportwm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/man-holding-digital-tablet-smiling-camera_74855-4328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Donor/pauptr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Patient/7002489_preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Patient/dportraitw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Patient/smportrait.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Patient/smportrait_8guQFmF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Patient/user-icn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/Patient/wportrait.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_blood.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_donation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_donor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/admin_request_history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/adminbase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/adminlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/update_donor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blood/update_patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/donate_blood.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/donation_history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/donor_dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/donorbase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/donorlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/donorsignup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/makerequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donor/request_history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/patient/makerequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/patient/my_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/patient/patient_dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/patient/patientbase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/patient/patientlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/patient/patientsignup.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CpvcYlHiXKccFryNdyREuEWm1v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ayush Khandelwal/OneDrive/Desktop/BloodBankSystem-Django&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d56e4c89-49b9-4f33-a43d-eb90c9519938" name="Changes" comment="" />
+      <created>1659512431042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659512431042</updated>
+    </task>
+    <servers />
+  </component>
+</project>
